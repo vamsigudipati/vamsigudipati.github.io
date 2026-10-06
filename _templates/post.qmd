@@ -1,0 +1,20 @@
+---
+title: "__TITLE__"
+description: "One sentence that tells a reader why to click."
+date: __DATE__
+categories: [notes]
+draft: true
+---
+
+## The idea in one picture
+
+```{mermaid}
+flowchart LR
+  A[Start] --> B[Key step] --> C[Result]
+```
+
+## Why it matters
+
+## How it works
+
+## What I learned

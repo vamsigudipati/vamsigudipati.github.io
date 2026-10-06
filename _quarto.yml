@@ -1,0 +1,33 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "posts/**/*.ipynb"
+
+website:
+  title: "Vamsi Gudipati"
+  description: "Notes on scientific machine learning, CFD and building with AI."
+  site-url: https://vamsigudipati.github.io
+  navbar:
+    right:
+      - text: Blog
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - icon: rss
+        href: index.xml
+  page-footer: "© 2026 Vamsi Gudipati"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

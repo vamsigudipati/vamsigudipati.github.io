@@ -1,0 +1,25 @@
+---
+title: "Starting this blog"
+description: "Why I am writing in public, and what to expect here."
+date: 2026-10-06
+categories: [meta]
+---
+
+I learn best when I have to explain something to someone else. This blog is where I do that in public.
+
+## How a post gets made
+
+```{mermaid}
+flowchart LR
+  A[Something I learned or built] --> B[Draft with a diagram first]
+  B --> C[Preview on my machine]
+  C --> D[Publish]
+```
+
+## What I plan to write about
+
+- Scientific machine learning, starting from the basics.
+- Computational fluid dynamics and where ML helps (and where it does not).
+- Lessons from the tools I am building.
+
+<!-- EDIT ME: replace or extend this with your own words before publishing. -->

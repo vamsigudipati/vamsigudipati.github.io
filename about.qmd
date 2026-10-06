@@ -1,0 +1,18 @@
+---
+title: "About"
+toc: false
+---
+
+I'm Vamsi Gudipati. I write here about scientific machine learning, computational fluid dynamics, and what I learn while building tools with AI.
+
+<!-- EDIT ME: two or three sentences on your background and what you are working on now. -->
+
+## What you'll find here
+
+- Concepts explained from the basics, with diagrams first.
+- Notes from projects I am building.
+- Things I wish someone had explained to me earlier.
+
+## Get in touch
+
+<!-- EDIT ME: add your LinkedIn and GitHub links. -->
