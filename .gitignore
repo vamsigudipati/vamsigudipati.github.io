@@ -4,3 +4,14 @@
 .ipynb_checkpoints/
 
 **/*.quarto_ipynb
+
+# Source reports: private working material, never published as-is
+/lessons/
+
+# Working files: local only, never committed
+CLAUDE.md
+DECISIONS.md
+START-HERE.md
+PLAN.md
+/prompts/
+*.command
