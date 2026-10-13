@@ -13,6 +13,8 @@ project:
     - airfoil-cfd-surrogate-drl.html
     - airfoil-rom-betavae-design.html
     - physics-informed-pinn-deeponet.html
+    - unet-turbulent-fields.html
+    - rom-ladle-digital-twin.html
     - "guides/*.html"
 
 website:
