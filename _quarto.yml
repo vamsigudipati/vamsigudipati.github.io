@@ -12,6 +12,7 @@ project:
     - og-image.png
     - airfoil-cfd-surrogate-drl.html
     - airfoil-rom-betavae-design.html
+    - physics-informed-pinn-deeponet.html
     - "guides/*.html"
 
 website:
