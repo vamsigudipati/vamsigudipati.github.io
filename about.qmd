@@ -3,16 +3,26 @@ title: "About"
 toc: false
 ---
 
-I'm Vamsi Gudipati. I write here about scientific machine learning, computational fluid dynamics, and what I learn while building tools with AI.
+I'm Vamsi Gudipati. I spent nearly 16 years at Ansys, the engineering simulation company, most recently as a Lead R&D Verification Engineer. Before that I was a CAD design engineer. Now I am moving into machine learning for engineering simulation, and I write here about what I learn.
 
-<!-- EDIT ME: two or three sentences on your background and what you are working on now. -->
+## What I work on
+
+At Ansys I tested and validated simulation software, from geometry tools to cloud and high-performance computing platforms, and built the test automation and CI/CD pipelines behind it. That taught me to treat quality as part of the design, not a step at the end.
+
+My focus now is scientific machine learning for fluids, structures and multiphysics: physics-informed neural networks, neural operators, reduced-order and surrogate models, digital twins, and reinforcement learning for flow control. One result so far: a neural-network surrogate that predicts steady laminar flow fields in about 50 milliseconds, where a traditional solver takes hours.
+
+I care most about honest evaluation. A model for physics can look good and still be wrong, through leaked data, a weak baseline or results that break the physics.
+
+I also build my own tools for checking scientific ML code, and I work with AI coding assistants every day.
 
 ## What you'll find here
 
-- Concepts explained from the basics, with diagrams first.
-- Notes from projects I am building.
-- Things I wish someone had explained to me earlier.
+- Concepts explained from the basics, each starting with a diagram.
+- Methods I re-run on my own machine, including when they fail or a classical baseline wins.
 
 ## Get in touch
 
-<!-- EDIT ME: add your LinkedIn and GitHub links. -->
+I am open to roles in machine learning for engineering simulation.
+
+- GitHub: <https://github.com/vamsigudipati>
+- LinkedIn: <https://www.linkedin.com/in/vamsigudipati/>

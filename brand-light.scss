@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+// Site brand (same tokens as the home page): paper, ink, slate, tide, ember
+$body-bg: #F5F7F6;
+$body-color: #13222C;
+$primary: #0E6F7A;
+$link-color: #0E6F7A;
+$secondary: #586773;
+$navbar-bg: #F5F7F6;
+$navbar-fg: #586773;
+$navbar-hl: #13222C;
+$footer-bg: #F5F7F6;
+$footer-fg: #586773;
+$border-color: #D5DCDE;
+$font-family-sans-serif: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+$headings-font-weight: 600;
+$web-font-path: "https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Source+Sans+3:wght@400;600&display=swap";
+
+/*-- scss:rules --*/
+.navbar { border-bottom: 1px solid #D5DCDE; }
+.navbar-brand { font-family: $headings-font-family; font-weight: 600; color: #13222C !important; }

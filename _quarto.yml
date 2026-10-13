@@ -1,28 +1,47 @@
 project:
   type: website
+  # The blog and the About page are built by Quarto. The home page, the project
+  # pages and the guide are finished HTML files and are copied to the site as they are.
   render:
-    - "*.qmd"
+    - blog.qmd
+    - about.qmd
+    - "posts/*/index.qmd"
     - "posts/**/*.ipynb"
+  resources:
+    - index.html
+    - og-image.png
+    - airfoil-cfd-surrogate-drl.html
+    - airfoil-rom-betavae-design.html
+    - "guides/*.html"
 
 website:
   title: "Vamsi Gudipati"
-  description: "Notes on scientific machine learning, CFD and building with AI."
+  description: "Machine learning for simulation: projects, guides and notes on scientific machine learning and CFD."
   site-url: https://vamsigudipati.github.io
+  open-graph:
+    image: og-image.png
   navbar:
+    title: "Vamsi Gudipati"
     right:
+      - text: Projects
+        href: index.html#projects
+      - text: Guides
+        href: index.html#guides
       - text: Blog
-        href: index.qmd
+        href: blog.qmd
       - text: About
         href: about.qmd
+      - text: GitHub
+        href: https://github.com/vamsigudipati
       - icon: rss
-        href: index.xml
+        href: blog.xml
   page-footer: "© 2026 Vamsi Gudipati"
 
 format:
   html:
     theme:
-      light: cosmo
-      dark: darkly
+      light: [cosmo, brand-light.scss]
+      dark: [darkly, brand-dark.scss]
     css: styles.css
     toc: true
     code-copy: true

@@ -1,0 +1,20 @@
+/*-- scss:defaults --*/
+$body-bg: #0E161C;
+$body-color: #E4EAEC;
+$primary: #5CC0C8;
+$link-color: #5CC0C8;
+$secondary: #97A6AF;
+$navbar-bg: #0E161C;
+$navbar-fg: #97A6AF;
+$navbar-hl: #E4EAEC;
+$footer-bg: #0E161C;
+$footer-fg: #97A6AF;
+$border-color: #25323B;
+$font-family-sans-serif: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+$headings-font-weight: 600;
+$web-font-path: "https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Source+Sans+3:wght@400;600&display=swap";
+
+/*-- scss:rules --*/
+.navbar { border-bottom: 1px solid #25323B; }
+.navbar-brand { font-family: $headings-font-family; font-weight: 600; color: #E4EAEC !important; }
