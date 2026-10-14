@@ -16,6 +16,7 @@ project:
     - unet-turbulent-fields.html
     - rom-ladle-digital-twin.html
     - cfd-signal-forecasting-rnn-transformer.html
+    - latent-dynamics-ae-vae-koopman.html
     - "guides/*.html"
 
 website:
