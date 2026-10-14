@@ -15,6 +15,7 @@ project:
     - physics-informed-pinn-deeponet.html
     - unet-turbulent-fields.html
     - rom-ladle-digital-twin.html
+    - cfd-signal-forecasting-rnn-transformer.html
     - "guides/*.html"
 
 website:
