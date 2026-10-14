@@ -18,6 +18,7 @@ project:
     - cfd-signal-forecasting-rnn-transformer.html
     - latent-dynamics-ae-vae-koopman.html
     - wall-shear-to-near-wall-velocity.html
+    - diffusion-channel-flow-fields.html
     - "guides/*.html"
 
 website:
