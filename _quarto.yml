@@ -17,6 +17,7 @@ project:
     - rom-ladle-digital-twin.html
     - cfd-signal-forecasting-rnn-transformer.html
     - latent-dynamics-ae-vae-koopman.html
+    - wall-shear-to-near-wall-velocity.html
     - "guides/*.html"
 
 website:
