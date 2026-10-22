@@ -3,7 +3,7 @@ title: "About"
 toc: false
 ---
 
-I'm Vamsi Gudipati. I spent nearly 16 years at Ansys, the engineering simulation company, most recently as a Lead R&D Verification Engineer. Before that I was a CAD design engineer. Now I am moving into machine learning for engineering simulation, and I write here about what I learn.
+I'm Vamsi Gudipati. I spent nearly 16 years at Ansys, the engineering simulation company, most recently as a Lead R&D Verification Engineer. Before that I was a CAD design engineer. Now I am moving into machine learning for engineering simulation, and I write here about what I learn. Since February 2026 I have been doing this as an independent consultant.
 
 ## What I work on
 
