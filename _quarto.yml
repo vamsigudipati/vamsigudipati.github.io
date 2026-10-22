@@ -34,8 +34,6 @@ website:
         href: index.html#projects
       - text: Guides
         href: index.html#guides
-      - text: Code
-        href: index.html#code
       - text: Blog
         href: blog.qmd
       - text: About
