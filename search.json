@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "posts/2026-10-06-welcome/index.html",
+    "href": "posts/2026-10-06-welcome/index.html",
+    "title": "Starting this blog",
+    "section": "",
+    "text": "I learn best when I have to explain something to someone else. This blog is where I do that in public."
+  },
+  {
+    "objectID": "posts/2026-10-06-welcome/index.html#how-a-post-gets-made",
+    "href": "posts/2026-10-06-welcome/index.html#how-a-post-gets-made",
+    "title": "Starting this blog",
+    "section": "How a post gets made",
+    "text": "How a post gets made\n\n\n\n\n\nflowchart LR\n  A[Something I learned or built] --&gt; B[Draft with a diagram first]\n  B --&gt; C[Preview on my machine]\n  C --&gt; D[Publish]"
+  },
+  {
+    "objectID": "posts/2026-10-06-welcome/index.html#what-i-plan-to-write-about",
+    "href": "posts/2026-10-06-welcome/index.html#what-i-plan-to-write-about",
+    "title": "Starting this blog",
+    "section": "What I plan to write about",
+    "text": "What I plan to write about\n\nScientific machine learning, starting from the basics.\nComputational fluid dynamics and where ML helps (and where it does not).\nLessons from the tools I am building."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Starting this blog\n\n\n\nmeta\n\n\n\nWhy I am writing in public, and what to expect here.\n\n\n\n\n\nOct 6, 2026\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Vamsi Gudipati. I spent nearly 16 years at Ansys, the engineering simulation company, most recently as a Lead R&D Verification Engineer. Before that I was a CAD design engineer. Now I am moving into machine learning for engineering simulation, and I write here about what I learn. Since February 2026 I have been doing this as an independent consultant."
+  },
+  {
+    "objectID": "about.html#what-i-work-on",
+    "href": "about.html#what-i-work-on",
+    "title": "About",
+    "section": "What I work on",
+    "text": "What I work on\nAt Ansys I tested and validated simulation software, from geometry tools to cloud and high-performance computing platforms, and built the test automation and CI/CD pipelines behind it. That taught me to treat quality as part of the design, not a step at the end.\nMy focus now is scientific machine learning for fluids, structures and multiphysics: physics-informed neural networks, neural operators, reduced-order and surrogate models, digital twins, and reinforcement learning for flow control. One result so far: a neural-network surrogate that predicts steady laminar flow fields in about 50 milliseconds, where a traditional solver takes hours.\nI care most about honest evaluation. A model for physics can look good and still be wrong, through leaked data, a weak baseline or results that break the physics.\nI also build my own tools for checking scientific ML code, and I work with AI coding assistants every day."
+  },
+  {
+    "objectID": "about.html#what-youll-find-here",
+    "href": "about.html#what-youll-find-here",
+    "title": "About",
+    "section": "What you’ll find here",
+    "text": "What you’ll find here\n\nConcepts explained from the basics, each starting with a diagram.\nMethods I re-run on my own machine, including when they fail or a classical baseline wins."
+  },
+  {
+    "objectID": "about.html#get-in-touch",
+    "href": "about.html#get-in-touch",
+    "title": "About",
+    "section": "Get in touch",
+    "text": "Get in touch\nI am open to roles in machine learning for engineering simulation.\n\nGitHub: https://github.com/vamsigudipati\nLinkedIn: https://www.linkedin.com/in/vamsigudipati/"
+  }
+]

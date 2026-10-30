@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Vamsi Gudipati</title>
+<link>https://vamsigudipati.github.io/blog.html</link>
+<atom:link href="https://vamsigudipati.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Machine learning for simulation: projects, guides and notes on scientific machine learning and CFD.</description>
+<generator>quarto-1.10.20</generator>
+<lastBuildDate>Tue, 06 Oct 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Starting this blog</title>
+  <dc:creator>Vamsi Gudipati</dc:creator>
+  <link>https://vamsigudipati.github.io/posts/2026-10-06-welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I learn best when I have to explain something to someone else. This blog is where I do that in public.</p>
+<section id="how-a-post-gets-made" class="level2">
+<h2 class="anchored" data-anchor-id="how-a-post-gets-made">How a post gets made</h2>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  A[Something I learned or built] --&gt; B[Draft with a diagram first]
+  B --&gt; C[Preview on my machine]
+  C --&gt; D[Publish]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</section>
+<section id="what-i-plan-to-write-about" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-plan-to-write-about">What I plan to write about</h2>
+<ul>
+<li>Scientific machine learning, starting from the basics.</li>
+<li>Computational fluid dynamics and where ML helps (and where it does not).</li>
+<li>Lessons from the tools I am building.</li>
+</ul>
+<!-- EDIT ME: replace or extend this with your own words before publishing. -->
+
+
+</section>
+
+ ]]></description>
+  <category>meta</category>
+  <guid>https://vamsigudipati.github.io/posts/2026-10-06-welcome/</guid>
+  <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

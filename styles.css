@@ -1,0 +1,5 @@
+/* Small readability tweaks on top of the theme. */
+main.content { font-size: 1.05rem; line-height: 1.7; }
+main.content p { max-width: 46rem; }
+.quarto-title .title { font-weight: 700; }
+figure figcaption { font-size: 0.9rem; opacity: 0.8; }
